@@ -1,1 +1,3 @@
-# ScoreKeeper
+# ScoreKeeper Android App
+
+Beginner practice test.
